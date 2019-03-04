@@ -1,7 +1,7 @@
 {
-  "name": "redux-tooltip-funy",
-  "version": "0.7.2",
-  "description": "A tooltip React component for Redux",
+  "name": "redux-tooltip-crystal  ",
+  "version": "0.7.4",
+  "description": "A tooltip React component for 16 version",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
